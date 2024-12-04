@@ -10,6 +10,7 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  text-align: center;
 }
 
 /* do not edit this footer */
@@ -24,3 +25,16 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+.imagewrapper {
+  display: flex;
+  justify-content: center;
+  margin: 32px;
+}
+
+.imagegroup {
+  width: 200px;
+  text-align: center;
+  margin: 52px;
+}
+
